@@ -1,0 +1,2 @@
+defmodule AppA do
+end

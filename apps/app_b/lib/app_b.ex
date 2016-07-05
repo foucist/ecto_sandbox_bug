@@ -1,0 +1,2 @@
+defmodule AppB do
+end
